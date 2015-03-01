@@ -4,6 +4,9 @@ Based on http://davidwalsh.name/sass-color-variables-dont-suck and http://chir.a
 
 This is a CLI that will add the variables to the specified file.
 
+## Install
+`npm install sass-theme -g`
+
 ## Options
 - `--apikey` The API key from Adobe
 - `--colors` A comma separated list of hex colors to convert
